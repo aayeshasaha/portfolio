@@ -24,10 +24,10 @@ const MainContent = () => (
   <div className="main-content">
     <img
       src="/src/app/"
-      alt=" Aayesha sha "
+      alt=" Aayesha saha "
       className="profile-img"
     />
-    <h1 className="name"> Aayesha sha  </h1>
+    <h1 className="name"> Aayesha saha  </h1>
     <p className="description">
       unique mind.
     </p>
